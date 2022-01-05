@@ -1,0 +1,62 @@
+body {
+    background-image: url('/img/bg2.jpg');
+    font-family: 'Mitr', sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-header {
+    text-align: center;
+
+}
+
+.header{
+    margin-top: 50px;
+}
+
+.navbar {
+    margin-top: auto;
+    padding: 0;
+    background-color: #FFBB00;
+}
+
+.navbar {
+    max-height: min-content;
+}
+
+.nav-item {
+    background-color: #FFBB00;
+    max-height: fit-content;
+    transition: 0.25s;
+}
+.nav-item:hover {
+    background-color: #7D0303;
+}
+.nav-link ,.nav-link:hover {
+    color: #ffffff;
+    font-weight: 200;
+}
+
+#profile {
+    text-align: center;
+    font-family: 'Mitr', sans-serif;
+}
+
+.side {
+    height: 1000px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer h6 {
+    color: #ffffff;
+}
+
+.choice-box-side {
+    margin-top: 10px;
+    background-color: #ffffff;
+    font-size: 16px;
+}
